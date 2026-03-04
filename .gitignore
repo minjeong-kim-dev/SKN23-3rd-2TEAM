@@ -205,3 +205,4 @@ models/**
 data/cache/**
 logs/*.jsonl
 *.csv 
+*.pem
