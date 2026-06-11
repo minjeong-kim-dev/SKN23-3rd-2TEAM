@@ -199,6 +199,7 @@ ehthumbs.db
 desktop.ini
 *.pdf
 *.md
+!study.md
 *.json 
 # Local Models & Caches
 models/**
