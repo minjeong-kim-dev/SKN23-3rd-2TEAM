@@ -200,6 +200,7 @@ desktop.ini
 *.pdf
 *.md
 !study.md
+!interview_questions.md
 *.json 
 # Local Models & Caches
 models/**
